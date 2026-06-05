@@ -5,7 +5,7 @@ cálculos y visualizaciones.
 
 ## Contenido
 
-- `Trarea_fisica_individual.ipynb` — desarrollo de la tarea con gráficos y resultados.
+- `Tarea_fisica_individual.ipynb` — desarrollo de la tarea con gráficos y resultados.
 
 ## Stack
 
